@@ -113,9 +113,6 @@ section.features .row .d-flex {
     max-height: 190px;
 }
 
-section.features .row .d-flex:hover {
-    transform: translateY(-5px)
-}
 section.features .row .d-flex h4 {
     font-size: 24px;
     color: #555;
