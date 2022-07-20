@@ -8,6 +8,10 @@
     src: url(../fonts/Cairo-SemiBold.ttf);
 }
 
+::selection {
+    color: #fff;
+    background-color: rgba(255, 206, 0, 0.7);
+
 body {
     font-family: ar-font;
     direction: rtl;
@@ -222,6 +226,10 @@ footer .social-media a.email i {
 
     section.features .row .d-flex {
         padding: 15px 10px;
+    }
+    
+    section.features .row .d-flex:hover {
+    transform: none;
     }
 
     section.features .row .d-flex h4 {
