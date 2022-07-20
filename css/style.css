@@ -159,7 +159,8 @@ footer .input-group input {
 }
 
 footer .input-group button {
-    border-radius: 0;
+    border: none;
+    border-radius: 2px;
     background-color: #393939;
     padding: 13px 33px;
 }
