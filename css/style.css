@@ -77,6 +77,7 @@ header .input-group {
 }
 
 header .send-notification .input-group button {
+    border: none;
     background-color: #ffce00;
     padding: 13px 33px;
     border-radius: 0;
